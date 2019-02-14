@@ -197,6 +197,7 @@ Conor Shields (https://github.com/cshields236)
 - Jithinlal
 - Utkarsh
 - palangana
+- [Dallin Smith](https://github.com/dallinbsmith)
 - Muhammad Zohaib Ehsan
 - [Sam Odum] (https://github.com/SamOdum/)
 - [Muhd Syuqri](https://github.com/dansyuqri/)
